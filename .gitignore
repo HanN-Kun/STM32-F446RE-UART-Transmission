@@ -1,0 +1,12 @@
+# Derleme çıktıları
+Debug/
+Release/
+
+# STM32CubeIDE debug launch dosyası (kişisel/makine bağımlı)
+*.launch
+
+# IDE ayarları (bazen paylaşılabilir ama genelde kişiye özel ayarlar içerir)
+.settings/
+
+# Eclipse/CDT tarafından otomatik üretilen index dosyaları
+.metadata/
